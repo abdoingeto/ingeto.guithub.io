@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<cx:Dataset xmlns:cx="http://www.leica-geosystems.com/namespaces/CycloneX">
+
+  <cx:Camera>
+    <cx:FrontDir></cx:FrontDir>
+    <cx:Position></cx:Position>
+    <cx:Orientation alpha="" aperture="" beta=""></cx:Orientation>
+  </cx:Camera>
+
+  <cx:Cubemaps>
+    <cx:Cube level="3" resolution="1024">
+      <cx:Left>Rgb_0_1024.JPG</cx:Left>
+      <cx:Front>Rgb_1_1024.JPG</cx:Front>
+      <cx:Right>Rgb_2_1024.JPG</cx:Right>
+      <cx:Back>Rgb_3_1024.JPG</cx:Back>
+      <cx:Top>Rgb_4_1024.JPG</cx:Top>
+      <cx:Bottom>Rgb_5_1024.JPG</cx:Bottom>
+      <cx:DepthLeft>Point_0_1024.DAT</cx:DepthLeft>
+      <cx:DepthFront>Point_1_1024.DAT</cx:DepthFront>
+      <cx:DepthRight>Point_2_1024.DAT</cx:DepthRight>
+      <cx:DepthBack>Point_3_1024.DAT</cx:DepthBack>
+      <cx:DepthTop>Point_4_1024.DAT</cx:DepthTop>
+      <cx:DepthBottom>Point_5_1024.DAT</cx:DepthBottom>
+    </cx:Cube>
+    <cx:Cube level="2" resolution="1024">
+      <cx:Left>Rgb_0_1024.JPG</cx:Left>
+      <cx:Front>Rgb_1_1024.JPG</cx:Front>
+      <cx:Right>Rgb_2_1024.JPG</cx:Right>
+      <cx:Back>Rgb_3_1024.JPG</cx:Back>
+      <cx:Top>Rgb_4_1024.JPG</cx:Top>
+      <cx:Bottom>Rgb_5_1024.JPG</cx:Bottom>
+      <cx:DepthLeft>Point_0_1024.DAT</cx:DepthLeft>
+      <cx:DepthFront>Point_1_1024.DAT</cx:DepthFront>
+      <cx:DepthRight>Point_2_1024.DAT</cx:DepthRight>
+      <cx:DepthBack>Point_3_1024.DAT</cx:DepthBack>
+      <cx:DepthTop>Point_4_1024.DAT</cx:DepthTop>
+      <cx:DepthBottom>Point_5_1024.DAT</cx:DepthBottom>
+    </cx:Cube>
+    <cx:Cube level="1" resolution="1024">
+      <cx:Left>Rgb_0_1024.JPG</cx:Left>
+      <cx:Front>Rgb_1_1024.JPG</cx:Front>
+      <cx:Right>Rgb_2_1024.JPG</cx:Right>
+      <cx:Back>Rgb_3_1024.JPG</cx:Back>
+      <cx:Top>Rgb_4_1024.JPG</cx:Top>
+      <cx:Bottom>Rgb_5_1024.JPG</cx:Bottom>
+      <cx:DepthLeft>Point_0_1024.DAT</cx:DepthLeft>
+      <cx:DepthFront>Point_1_1024.DAT</cx:DepthFront>
+      <cx:DepthRight>Point_2_1024.DAT</cx:DepthRight>
+      <cx:DepthBack>Point_3_1024.DAT</cx:DepthBack>
+      <cx:DepthTop>Point_4_1024.DAT</cx:DepthTop>
+      <cx:DepthBottom>Point_5_1024.DAT</cx:DepthBottom>
+    </cx:Cube>
+    <cx:Cube level="0" resolution="1024">
+      <cx:Left>Rgb_0_1024.JPG</cx:Left>
+      <cx:Front>Rgb_1_1024.JPG</cx:Front>
+      <cx:Right>Rgb_2_1024.JPG</cx:Right>
+      <cx:Back>Rgb_3_1024.JPG</cx:Back>
+      <cx:Top>Rgb_4_1024.JPG</cx:Top>
+      <cx:Bottom>Rgb_5_1024.JPG</cx:Bottom>
+      <cx:DepthLeft>Point_0_1024.DAT</cx:DepthLeft>
+      <cx:DepthFront>Point_1_1024.DAT</cx:DepthFront>
+      <cx:DepthRight>Point_2_1024.DAT</cx:DepthRight>
+      <cx:DepthBack>Point_3_1024.DAT</cx:DepthBack>
+      <cx:DepthTop>Point_4_1024.DAT</cx:DepthTop>
+      <cx:DepthBottom>Point_5_1024.DAT</cx:DepthBottom>
+    </cx:Cube>
+  </cx:Cubemaps>
+
+  <cx:Cubemaps2>
+    <cx:Cube level="3" resolution="512">
+      <cx:Left>Img_0_512.JPG</cx:Left>
+      <cx:Front>Img_1_512.JPG</cx:Front>
+      <cx:Right>Img_2_512.JPG</cx:Right>
+      <cx:Back>Img_3_512.JPG</cx:Back>
+      <cx:Top>Img_4_512.JPG</cx:Top>
+      <cx:Bottom>Img_5_512.JPG</cx:Bottom>
+      <cx:DepthLeft>Pnt_0_512.DAT</cx:DepthLeft>
+      <cx:DepthFront>Pnt_1_512.DAT</cx:DepthFront>
+      <cx:DepthRight>Pnt_2_512.DAT</cx:DepthRight>
+      <cx:DepthBack>Pnt_3_512.DAT</cx:DepthBack>
+      <cx:DepthTop>Pnt_4_512.DAT</cx:DepthTop>
+      <cx:DepthBottom>Pnt_5_512.DAT</cx:DepthBottom>
+    </cx:Cube>
+    <cx:Cube level="2" resolution="1024">
+      <cx:Left>Img_0_1024.JPG</cx:Left>
+      <cx:Front>Img_1_1024.JPG</cx:Front>
+      <cx:Right>Img_2_1024.JPG</cx:Right>
+      <cx:Back>Img_3_1024.JPG</cx:Back>
+      <cx:Top>Img_4_1024.JPG</cx:Top>
+      <cx:Bottom>Img_5_1024.JPG</cx:Bottom>
+      <cx:DepthLeft>Pnt_0_1024.DAT</cx:DepthLeft>
+      <cx:DepthFront>Pnt_1_1024.DAT</cx:DepthFront>
+      <cx:DepthRight>Pnt_2_1024.DAT</cx:DepthRight>
+      <cx:DepthBack>Pnt_3_1024.DAT</cx:DepthBack>
+      <cx:DepthTop>Pnt_4_1024.DAT</cx:DepthTop>
+      <cx:DepthBottom>Pnt_5_1024.DAT</cx:DepthBottom>
+    </cx:Cube>
+    <cx:Cube level="1" resolution="2048">
+      <cx:Left>Img_0_2048.JPG</cx:Left>
+      <cx:Front>Img_1_2048.JPG</cx:Front>
+      <cx:Right>Img_2_2048.JPG</cx:Right>
+      <cx:Back>Img_3_2048.JPG</cx:Back>
+      <cx:Top>Img_4_2048.JPG</cx:Top>
+      <cx:Bottom>Img_5_2048.JPG</cx:Bottom>
+      <cx:DepthLeft>Pnt_0_2048.DAT</cx:DepthLeft>
+      <cx:DepthFront>Pnt_1_2048.DAT</cx:DepthFront>
+      <cx:DepthRight>Pnt_2_2048.DAT</cx:DepthRight>
+      <cx:DepthBack>Pnt_3_2048.DAT</cx:DepthBack>
+      <cx:DepthTop>Pnt_4_2048.DAT</cx:DepthTop>
+      <cx:DepthBottom>Pnt_5_2048.DAT</cx:DepthBottom>
+    </cx:Cube>
+    <cx:Cube level="0" resolution="4096">
+      <cx:Left>Img_0_4096.JPG</cx:Left>
+      <cx:Front>Img_1_4096.JPG</cx:Front>
+      <cx:Right>Img_2_4096.JPG</cx:Right>
+      <cx:Back>Img_3_4096.JPG</cx:Back>
+      <cx:Top>Img_4_4096.JPG</cx:Top>
+      <cx:Bottom>Img_5_4096.JPG</cx:Bottom>
+      <cx:DepthLeft>Pnt_0_4096.DAT</cx:DepthLeft>
+      <cx:DepthFront>Pnt_1_4096.DAT</cx:DepthFront>
+      <cx:DepthRight>Pnt_2_4096.DAT</cx:DepthRight>
+      <cx:DepthBack>Pnt_3_4096.DAT</cx:DepthBack>
+      <cx:DepthTop>Pnt_4_4096.DAT</cx:DepthTop>
+      <cx:DepthBottom>Pnt_5_4096.DAT</cx:DepthBottom>
+    </cx:Cube>
+  </cx:Cubemaps2>
+
+</cx:Dataset>
