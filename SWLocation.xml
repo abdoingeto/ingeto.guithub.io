@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Registration>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S001" name="BUREAU MR KARROUM- S001" rotation_angle="1.000000" rotation_angle_unit="rad" rotation_axis="0.000000, 0.000000, 0.000072" tran_unit="m" translation="(-0.000004, -0.000011, 0.000000)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S003" name="BUREAU MR KARROUM- S003" rotation_angle="0.957890" rotation_angle_unit="rad" rotation_axis="0.000853, 0.000560, 0.287135" tran_unit="m" translation="(-1.417016, -0.498836, 0.019681)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S004" name="BUREAU MR KARROUM- S004" rotation_angle="-0.495192" rotation_angle_unit="rad" rotation_axis="-0.000363, -0.000527, 0.868783" tran_unit="m" translation="(-8.276257, 0.186734, 0.048884)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S005" name="BUREAU MR KARROUM- S005" rotation_angle="0.260110" rotation_angle_unit="rad" rotation_axis="0.000528, -0.000143, 0.965579" tran_unit="m" translation="(-8.233628, -6.608659, 0.021504)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S006" name="BUREAU MR KARROUM- S006" rotation_angle="-0.090500" rotation_angle_unit="rad" rotation_axis="-0.000229, -0.000185, 0.995896" tran_unit="m" translation="(-1.315091, -7.790086, 0.010220)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S007" name="BUREAU MR KARROUM- S007" rotation_angle="0.034071" rotation_angle_unit="rad" rotation_axis="0.000178, -0.000106, 0.999419" tran_unit="m" translation="(0.318342, -7.895509, 0.073644)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S008" name="BUREAU MR KARROUM- S008" rotation_angle="0.712555" rotation_angle_unit="rad" rotation_axis="0.000518, -0.000015, 0.701616" tran_unit="m" translation="(0.443491, -8.980151, 0.094182)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S009" name="BUREAU MR KARROUM- S009" rotation_angle="0.947753" rotation_angle_unit="rad" rotation_axis="0.000713, 0.000406, -0.319003" tran_unit="m" translation="(-0.255318, -4.663212, -0.004982)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S010" name="BUREAU MR KARROUM- S010" rotation_angle="0.082825" rotation_angle_unit="rad" rotation_axis="0.000119, -0.000013, 0.996564" tran_unit="m" translation="(-10.564736, -9.298203, -0.012812)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S011" name="BUREAU MR KARROUM- S011" rotation_angle="0.985360" rotation_angle_unit="rad" rotation_axis="0.000942, 0.000366, 0.170482" tran_unit="m" translation="(-11.873483, -9.069312, 0.089328)"></ScanWorld>
+
+  <ScanWorld dir="BUREAU MR KARROUM- S012" name="BUREAU MR KARROUM- S012" rotation_angle="0.974064" rotation_angle_unit="rad" rotation_axis="0.000903, 0.000299, -0.226272" tran_unit="m" translation="(-12.317053, -0.267378, 0.100422)"></ScanWorld>
+
+</Registration>
