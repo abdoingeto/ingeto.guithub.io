@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="CubeMap.xslt"?>
 <Lgshds:CubeMap xmlns:Lgshds="http://leica-geosystems.com/Lgshds">
 
-  <Lgshds:Uid>7197f120-bad4-4a01-9e02-4b7b78418d50</Lgshds:Uid>
+  <Lgshds:Uid>cad43582-5798-4317-93d9-3de8bb9ecdbe</Lgshds:Uid>
 
   <Lgshds:Build>2.2.0.0</Lgshds:Build>
 
@@ -10,19 +10,19 @@
 
   <Lgshds:ScanMeta>
     <Lgshds:databaseName>BUREAU INGETO 1</Lgshds:databaseName>
-    <Lgshds:scanName>BUREAU MR KARROUM- S001</Lgshds:scanName>
+    <Lgshds:scanName>BUREAU MR KARROUM- S003</Lgshds:scanName>
     <Lgshds:scannerModel>RTC360</Lgshds:scannerModel>
     <Lgshds:scannerId>RTC360-2981588</Lgshds:scannerId>
-    <Lgshds:scanDate>12/17/2020, 09:49:20</Lgshds:scanDate>
-    <Lgshds:creationDate>03/04/2023, 11:58:17</Lgshds:creationDate>
-    <Lgshds:pointCount>8993813</Lgshds:pointCount>
+    <Lgshds:scanDate>12/17/2020, 09:55:22</Lgshds:scanDate>
+    <Lgshds:creationDate>03/04/2023, 11:59:16</Lgshds:creationDate>
+    <Lgshds:pointCount>8988990</Lgshds:pointCount>
   </Lgshds:ScanMeta>
 
   <Lgshds:CoordinateSystem>
     <Lgshds:UpDirection>0</Lgshds:UpDirection>
-    <Lgshds:centerPointX>-0.000004</Lgshds:centerPointX>
-    <Lgshds:centerPointY>-0.000011</Lgshds:centerPointY>
-    <Lgshds:centerPointZ>0.000000</Lgshds:centerPointZ>
+    <Lgshds:centerPointX>-1.417016</Lgshds:centerPointX>
+    <Lgshds:centerPointY>-0.498836</Lgshds:centerPointY>
+    <Lgshds:centerPointZ>0.019681</Lgshds:centerPointZ>
     <Lgshds:coordSysType></Lgshds:coordSysType>
   </Lgshds:CoordinateSystem>
 
@@ -56,22 +56,22 @@
       <Lgshds:lod>
         <Lgshds:size>512</Lgshds:size>
         <Lgshds:maxPointError>0.039461</Lgshds:maxPointError>
-        <Lgshds:pointCount>1484375</Lgshds:pointCount>
+        <Lgshds:pointCount>1475465</Lgshds:pointCount>
       </Lgshds:lod>
       <Lgshds:lod>
         <Lgshds:size>1024</Lgshds:size>
         <Lgshds:maxPointError>0.019733</Lgshds:maxPointError>
-        <Lgshds:pointCount>5180299</Lgshds:pointCount>
+        <Lgshds:pointCount>5172205</Lgshds:pointCount>
       </Lgshds:lod>
       <Lgshds:lod>
         <Lgshds:size>2048</Lgshds:size>
         <Lgshds:maxPointError>0.009872</Lgshds:maxPointError>
-        <Lgshds:pointCount>8442981</Lgshds:pointCount>
+        <Lgshds:pointCount>8393790</Lgshds:pointCount>
       </Lgshds:lod>
       <Lgshds:lod>
         <Lgshds:size>4096</Lgshds:size>
         <Lgshds:maxPointError>0.004947</Lgshds:maxPointError>
-        <Lgshds:pointCount>8897819</Lgshds:pointCount>
+        <Lgshds:pointCount>8865069</Lgshds:pointCount>
       </Lgshds:lod>
     </Lgshds:lods2>
     <Lgshds:hasPointData>TRUE</Lgshds:hasPointData>
@@ -88,7 +88,7 @@
   <Lgshds:LODMeta>
     <Lgshds:lodSize>2048</Lgshds:lodSize>
     <Lgshds:maxPointError>0.009872</Lgshds:maxPointError>
-    <Lgshds:pointCount>8442981</Lgshds:pointCount>
+    <Lgshds:pointCount>8393790</Lgshds:pointCount>
   </Lgshds:LODMeta>
 
   <Lgshds:OwnerInfo>
@@ -109,16 +109,16 @@
   <Lgshds:ShowNeighborLabels>YES</Lgshds:ShowNeighborLabels>
 
   <Lgshds:Neighbors>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S003" URL="../BUREAU MR KARROUM- S003/TruView.xml" X="-1.417012" Y="0.019681" Z="0.498825"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S004" URL="../BUREAU MR KARROUM- S004/TruView.xml" X="-8.276253" Y="0.048884" Z="-0.186745"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S005" URL="../BUREAU MR KARROUM- S005/TruView.xml" X="-8.233624" Y="0.021504" Z="6.608648"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S006" URL="../BUREAU MR KARROUM- S006/TruView.xml" X="-1.315087" Y="0.010220" Z="7.790075"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S007" URL="../BUREAU MR KARROUM- S007/TruView.xml" X="0.318346" Y="0.073644" Z="7.895498"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S008" URL="../BUREAU MR KARROUM- S008/TruView.xml" X="0.443495" Y="0.094182" Z="8.980140"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S009" URL="../BUREAU MR KARROUM- S009/TruView.xml" X="-0.255313" Y="-0.004982" Z="4.663201"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S010" URL="../BUREAU MR KARROUM- S010/TruView.xml" X="-10.564732" Y="-0.012812" Z="9.298192"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S011" URL="../BUREAU MR KARROUM- S011/TruView.xml" X="-11.873479" Y="0.089328" Z="9.069301"></Lgshds:Neighbor>
-    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S012" URL="../BUREAU MR KARROUM- S012/TruView.xml" X="-12.317049" Y="0.100422" Z="0.267367"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S001" URL="../BUREAU MR KARROUM- S001/TruView.xml" X="1.417012" Y="-0.019681" Z="-0.498825"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S004" URL="../BUREAU MR KARROUM- S004/TruView.xml" X="-6.859241" Y="0.029203" Z="-0.685571"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S005" URL="../BUREAU MR KARROUM- S005/TruView.xml" X="-6.816612" Y="0.001823" Z="6.109822"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S006" URL="../BUREAU MR KARROUM- S006/TruView.xml" X="0.101925" Y="-0.009461" Z="7.291249"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S007" URL="../BUREAU MR KARROUM- S007/TruView.xml" X="1.735358" Y="0.053964" Z="7.396672"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S008" URL="../BUREAU MR KARROUM- S008/TruView.xml" X="1.860507" Y="0.074501" Z="8.481314"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S009" URL="../BUREAU MR KARROUM- S009/TruView.xml" X="1.161698" Y="-0.024663" Z="4.164375"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S010" URL="../BUREAU MR KARROUM- S010/TruView.xml" X="-9.147720" Y="-0.032493" Z="8.799367"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S011" URL="../BUREAU MR KARROUM- S011/TruView.xml" X="-10.456467" Y="0.069648" Z="8.570475"></Lgshds:Neighbor>
+    <Lgshds:Neighbor Name="BUREAU MR KARROUM- S012" URL="../BUREAU MR KARROUM- S012/TruView.xml" X="-10.900037" Y="0.080741" Z="-0.231458"></Lgshds:Neighbor>
   </Lgshds:Neighbors>
 
   <Lgshds:StationIconRadius>8</Lgshds:StationIconRadius>
